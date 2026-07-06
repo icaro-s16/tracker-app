@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="notification_channel_name">Rastreamento de Localização</string>
+    <string name="notification_channel_description">Serviço de rastreamento GPS em execução em segundo plano</string>
+</resources>

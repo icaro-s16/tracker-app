@@ -1,0 +1,3 @@
+com.tracker.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
